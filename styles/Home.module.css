@@ -52,7 +52,7 @@
 }
 
 .description {
-  margin: 4rem 0;
+
   line-height: 1.5;
   font-size: 1.5rem;
 }
@@ -138,5 +138,12 @@
   margin: 23px;
   font-weight: bold;
   list-style: none;
+  cursor: pointer;
 
+}
+.imgwrap{
+  padding: 10px;
+}
+.myimg{
+  border-radius: 20px 0;
 }
